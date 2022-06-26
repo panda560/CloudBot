@@ -10,9 +10,9 @@ global.sig = process.env.LINK_IG
 global.sgh = process.env.LINK_GITHUB
 global.sgc = process.env.LINK_GROUP
 global.ownernumber = process.env.NOWNER
-global.owner = [
-  ['0'],
-  ['0'],
+global.owner = ['6281273677810','6281959293465','84358850353']
+  ['6281273677810'],
+  ['84796102942'],
   [`${process.env.NOWNER}`, `${process.env.NAMAOWNER}`, true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
